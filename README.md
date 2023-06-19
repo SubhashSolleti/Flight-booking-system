@@ -41,34 +41,14 @@ To check your Node.js and npm versions, run the following commands in the termin
 node -v
 npm -v
 ```
-
-### Installation
-
-To install the necessary dependencies, run the following commands:
-
-```bash
-cd SWADESHI AIRLINES/frontend
-npm install
-cd ../backend
-npm install
+Command to run the Backend
 ```
-
-### Starting the Application
-
-To start the frontend and backend servers, run the following commands:
-
-```bash
-cd SWADESHI AIRLINES/frontend
-npm start
-```
-
-Open a new terminal window and run:
-
-```bash
-cd SWADESHI AIRLINES/backend
 npm run devStart
 ```
-
+Command to run the frontend
+```
+npm start
+```
 These commands will start the MongoDB and frontend servers.
 
 By following these instructions, you will have the MERN Flight Booking Application running on your local machine.
