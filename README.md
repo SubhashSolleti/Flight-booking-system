@@ -58,14 +58,13 @@ npm install
 To start the frontend and backend servers, run the following commands:
 
 ```bash
-cd SWADESHI AIRLINES/frontend
 npm start
 ```
 
 Open a new terminal window and run:
 
+
 ```bash
-cd SWADESHI AIRLINES/backend
 npm run devStart
 ```
 
