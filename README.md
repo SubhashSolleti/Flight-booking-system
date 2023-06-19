@@ -46,9 +46,7 @@ npm -v
 
 To install the necessary dependencies, run the following commands:
 
-```bash
-cd SWADESHI AIRLINES/frontend
-npm install
+```
 cd ../backend
 npm install
 ```
@@ -57,7 +55,7 @@ npm install
 
 To start the frontend and backend servers, run the following commands:
 
-```bash
+```
 npm start
 ```
 
